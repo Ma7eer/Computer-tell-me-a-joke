@@ -3,5 +3,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 I created this app to practice making ajax calls using redux and react. 
 
 to use the app
-> cd Computer\ Tell\ me\ a\ Joke
-> npm install && npm start -s
+
+```
+cd Computer\ Tell\ me\ a\ Joke
+```
+
+```
+npm install && npm start -s
+```
