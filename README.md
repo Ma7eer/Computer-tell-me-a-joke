@@ -5,7 +5,7 @@ I created this app to practice making ajax calls using redux and react.
 to use the app
 
 ```
-cd Computer\ Tell\ me\ a\ Joke
+cd Computer\ tell\ me\ a\ joke
 ```
 
 ```
