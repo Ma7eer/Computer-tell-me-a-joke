@@ -1,0 +1,5 @@
+export const LOAD_JOKE = 'LOAD_JOKE';
+
+export const JOKE_HAS_ERROR = 'JOKE_HAS_ERROR';
+export const JOKE_IS_LOADING = 'JOKE_IS_LOADING';
+export const JOKE_FETCH_DATA_SUCCESS = 'JOKE_FETCH_DATA_SUCCESS';
