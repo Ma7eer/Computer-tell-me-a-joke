@@ -1,7 +1,7 @@
-import React from 'react';
-import PropTypes from 'prop-types';
+import React from "react";
+import PropTypes from "prop-types";
 
-const Joke = (props) => {
+const Joke = props => {
   const { setup, punchline } = props;
   return (
     <div>
@@ -9,11 +9,11 @@ const Joke = (props) => {
       <h1>{punchline}</h1>
     </div>
   );
-}
+};
 
 Joke.propTypes = {
   setup: PropTypes.string,
   punchline: PropTypes.string
-}
+};
 
 export default Joke;
