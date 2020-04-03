@@ -9,5 +9,5 @@ cd Computer\ tell\ me\ a\ joke
 ```
 
 ```
-npm install && npm start -s
+npm install && npm start
 ```
